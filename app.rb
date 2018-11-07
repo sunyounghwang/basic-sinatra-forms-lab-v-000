@@ -8,5 +8,4 @@ class App < Sinatra::Base
   post "/team" do
     erm :team
   end
-
 end
